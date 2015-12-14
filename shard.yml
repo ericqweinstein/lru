@@ -1,0 +1,10 @@
+name: lru
+version: 0.1.0
+
+authors:
+  - Eric Weinstein <eric.q.weinstein@gmail.com>
+
+description: |
+  A simple little LRU cache in Crystal
+
+license: MIT
